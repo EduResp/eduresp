@@ -1,4 +1,4 @@
-const CACHE = 'eduresp-v1';
+const CACHE = 'eduresp-v2';
 const ASSETS = [
   './',
   './index.html',
