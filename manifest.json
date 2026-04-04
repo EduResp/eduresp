@@ -1,6 +1,6 @@
 {
   "name": "EduResp — Freqüència Respiratòria",
-  "short_name": "EduResp",
+  "short_name":  "EduResp",
   "description": "Mesura de freqüència respiratòria per a tècnics en emergències sanitàries. Per Eduard.",
   "start_url": "./index.html",
   "display": "standalone",
